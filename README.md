@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/GabrielHGesser">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielHGesser&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHGesser&layout=compact&langs_count=7&theme=merko"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=GabrielHGesser&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHGesser&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5kYFBmttQ6nixTvCU-ijrw)
@@ -23,10 +23,8 @@
 
   
   
-####  In love with game development 😍
+##  In love with game development 😍
 
-
-##
   
 ![BSMY2S_22464e1998a12b4d88bb08ca21917033_00-00-00_00-00-01_1](https://user-images.githubusercontent.com/81266392/173652380-d03e5342-0407-4c8b-9f72-c1cfc391ab3e.gif)
   
