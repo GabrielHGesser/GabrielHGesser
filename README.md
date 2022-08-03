@@ -19,6 +19,7 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img align="center" alt="C#" src="https://www.flaticon.com/br/icone-gratis/html-5_5968267?term=html&page=1&position=1&page=1&position=1&related_id=5968267&origin=search"/>
 </div>
 
   
